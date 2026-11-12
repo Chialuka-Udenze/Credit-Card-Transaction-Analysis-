@@ -18,23 +18,17 @@ The dashboard reveals strong revenue concentration among middle-aged customers, 
 
 # Findings
 1. Customers aged 25-34 are the highest revenue contributors
-
 The 25-34 age group generated the largest transaction amount at approximately 16.4M, making it the most valuable customer segment.
 2. Female customers drive a larger share of revenue
-
 Female customers generated 35.94M (54.54%) of total revenue.Male customers contributed 29.95M (45.46%).
 3. Weekend and early-week spending outperform midweek transactions
-
 Monday (12.88M) recorded the highest transaction value, narrowly surpassing Sunday (12.87M).
 Saturday (10.91M) ranks third, highlighting strong weekend consumer activity
 4. Grocery spending dominates customer expenditure
-
 Grocery POS transactions (10.42M) represent the largest spending category by a significant margin
 5. Geographic concentration is heavily skewed toward North America
-
 Customer distribution shows the highest density of transactions across the United States, with additional activity across Europe, Africa, Asia, and Australia.
 6. Fraud levels appear relatively low compared to legitimate transactions
-
 Non-fraudulent transactions account for approximately 63.08M of the total revenue.
 Fraudulent transactions total about 2.80M
 # Business Implications
